@@ -27,6 +27,9 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 
 
 ![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph3.png)
+## Итоги работы 
+Построенные графики: 
+Описание 
 
 ## Список авторов 
 
@@ -53,6 +56,4 @@ NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
 (ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/belukha/belukha2009ions.txt)
 Date accesed: 25.10.2024
 
-## Итоги работы 
-Построенные графики: 
-Описание 
+
