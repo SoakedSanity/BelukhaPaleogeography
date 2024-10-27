@@ -26,10 +26,9 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 ![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph2.png)
 
 
-![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph3.png)
 ## Итоги работы 
-Построенные графики: 
-Описание 
+Главный результат проделанной работы - сопоставленные и сглаженные графики содержания ионов и кислорода.
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph3.png)
 
 ## Как открыть код?
 
