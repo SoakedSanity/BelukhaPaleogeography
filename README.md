@@ -40,8 +40,8 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 
 ## Как открыть код?
 
-1. Перенести в проводник файлы датасетов - belukha2009.txt и belukha2009ions.txt.
-2. Скачать файл belukha_graph_builder_prepared.ipynb в ту же директорию, куда скачаны файлы на прошлом шаге.
+1. Скачать файлы датасетов - belukha2009.txt и belukha2009ions.txt. Переместить их в папку.
+2. Скачать файл belukha_graph_builder_prepared.ipynb в директорию, куда были сохранены файлы на прошлом шаге.
 3. Запустить каждую ячейку кода, начиная с самой первой.
 
 ## Список авторов 
