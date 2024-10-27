@@ -26,9 +26,11 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 
 ![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph1.png)
 
+
 В таком виде данные не совсем наглядны из-за различающейся цены деления шкал, поэтому все графики были отображены на одном:
 
 ![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph2.png)
+
 
 Здесь уже можно сопоставить данные по каждому из химических соединений, увидеть взаимосвязи. Для лучшей читаемости графики были сглажены при помощи метода скользящего среднего.
 
@@ -37,6 +39,7 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 Главный результат проделанной работы - сопоставленные и сглаженные графики содержания ионов и кислорода.
 
 ![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph3.png)
+
 
 Можно заметить общий пик в районе 1600 года, а также увеличение к настоящему времени. Анализ этих распределений - отдельная и очень большая задача, для решения которой понадобится гораздо больше времени и источников. 
 
