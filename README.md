@@ -20,6 +20,14 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 ## Ход работы 
 С сайта ncei.noaa.gov (National Centers for Environmental Information) были взяты данные по керну на горе Белуха в формате txt. Были выбраны интересующие показатели: кислород, аммоний, а также хлориды, нитраты и сульфаты.
 
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph1.png)
+
+
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph2.png)
+
+
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/graph3.png)
+
 ## Список авторов 
 
 ### * Цифрами выделены выполненные человеком задачи (зоны ответственности)
