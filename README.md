@@ -1,3 +1,5 @@
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/vortex.png)
+
 # BelukhaPaleogeography
 Paleogeographic analysis of chemical distribution by Belukha mountain ice core data
 
@@ -68,5 +70,7 @@ Data Contribution Series # 2012-071.
 NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
 (ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/belukha/belukha2009ions.txt)
 Date accesed: 25.10.2024
+
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/vortex.png)
 
 
