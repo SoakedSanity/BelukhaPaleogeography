@@ -37,7 +37,7 @@ Paleogeographic analysis of chemical distribution by Belukha mountain ice core d
 
 ## Источники данных:
 
-Eichler, A., et al. 2012. 
+- Eichler, A., et al. 2012. 
 Altai, Siberia 750 Year Ice Core d18O and Temperature Reconstruction. 
 IGBP PAGES/World Data Center for Paleoclimatology 
 Data Contribution Series # 2012-032. 
@@ -45,7 +45,7 @@ NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
 (ftp://ftp.ncdc.noaa.gov/pub/data/paleo/trop/belukha/belukha2009.txt)
 Date accesed: 23.10.2024
 
-Eichler, A., et al. 2012. 
+- Eichler, A., et al. 2012. 
 Belukha Glacier, Siberian Altai 750 Year Major Ions Data. 
 IGBP PAGES/World Data Center for Paleoclimatology 
 Data Contribution Series # 2012-071. 
