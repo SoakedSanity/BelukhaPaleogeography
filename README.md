@@ -1,4 +1,4 @@
-![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/vortex1.jpg)
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/vortex3.jpg)
 
 # BelukhaPaleogeography
 Paleogeographic analysis of chemical distribution by Belukha mountain ice core data
