@@ -71,6 +71,6 @@ NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
 (ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/belukha/belukha2009ions.txt)
 Date accesed: 25.10.2024
 
-![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/vortex2.jpg)
+![](https://github.com/SoakedSanity/BelukhaPaleogeography/blob/main/pics/vortex4.jpg)
 
 
